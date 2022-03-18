@@ -1,40 +1,6 @@
-*{
-<<<<<<< HEAD
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  background-color: #eee;
-  font-family: 'Lato', sans-serif;
-=======
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background-color: #eee;
-    color: #333;
-    font-size: 1.2rem;
-}
-.navbar{
-    min-height: 70px;
-    display: flex;
-    justify-content: space-between;
-    padding: 2rem 0;
-
-}
-ul{
-    display: flex;
-    justify-content: space-between;
-}
-li{
-    list-style-type: none;
-    padding: 0 1rem;
-}
-a{
-    text-decoration: none;
-    color: #333;
->>>>>>> 6c4aabb7f9fa32e6a83b689d74bdf8e24b361154
-}
